@@ -59,7 +59,7 @@ loan_default_project/
 ## 🚀 Tech Stack
 
 - Python
-- Pandas, NumPy
+- Pandas
 - Scikit-learn
 - Joblib (for model persistence)
 - Excel I/O (`pd.read_excel`, `to_excel`)
